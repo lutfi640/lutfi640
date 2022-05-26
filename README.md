@@ -2,7 +2,7 @@
 !<img src="https://github.com/lutfi640/lutfi640/blob/main/github.gif" >
 
 ## About Myself 💻
-My Name Is Imam Lutfi Rahmatullah, I lived on Depok City Indonesia. I'm not working right now with fresh graduate status, but I'm trying to find a job that match my interest in **Data Analyst** and **Data Scientist**.
+My Name Is Imam Lutfi Rahmatullah, I just finished my study on Informatics Engineering Bachelor Degree at **Universitas Islam Neger Syarif Hidayatullah Jakarta**. I lived on Depok City, Indonesia. I'm not working right now with fresh graduate status, but I'm trying to find a job that match my interest in **Data Analyst** and **Data Scientist**.
 ## Feel free to connect me on social media 📲
 [![Linkedin Badge](https://img.shields.io/badge/-imamlutfirahmatullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imam-lutfi-r-27980711a/)](https://www.linkedin.com/in/imam-lutfi-r-27980711a/)
 [![Instagram Badge](https://img.shields.io/badge/-lutfi__rahmatullah-magenta?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lutfi__rahmatullah/)](https://www.instagram.com/lutfi__rahmatullah/)
