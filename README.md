@@ -1,4 +1,4 @@
-# Hello everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px">😊
+# Hello everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">😊
 !<img src="https://github.com/lutfi640/lutfi640/blob/main/github.gif" >
 
 ## About Myself 💻
