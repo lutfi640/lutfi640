@@ -1,5 +1,5 @@
 # Hello everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px" height="40px">😊
-!<img src="https://github.com/lutfi640/lutfi640/blob/main/github.gif" >
+<img src="https://github.com/lutfi640/lutfi640/blob/main/github.gif" >
 
 ## About Myself 💻
 My Name Is Imam Lutfi Rahmatullah, I just finished my study on Informatics Engineering Bachelor Degree at **Universitas Islam Neger Syarif Hidayatullah Jakarta**. I lived on Depok City, Indonesia. I'm not working right now with fresh graduate status, but I'm trying to find a job that match my interest in **Data Analyst** and **Data Scientist**.
